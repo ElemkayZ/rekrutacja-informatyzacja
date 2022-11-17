@@ -1,3 +1,3 @@
-#rekrutacja
+#info o zad
 
-zadanie
+zadanie zrobione na vs studio 2022 z testami NUnit
